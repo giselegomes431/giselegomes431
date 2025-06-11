@@ -5,6 +5,15 @@ UI/UX Designer & Fullstack Developer 💡<br>
 Apaixonada por transformar ideias em experiências incríveis com design e código!
 </p>
 
+<!-- Estilo para corrigir ícones no modo escuro -->
+<style>
+  @media (prefers-color-scheme: dark) {
+    .markdown-body img[data-invert-on-dark="true"] {
+      filter: invert(1);
+    }
+  }
+</style>
+
 ---
 
 ### 🎓 Formação Acadêmica
@@ -39,12 +48,14 @@ Apaixonada por transformar ideias em experiências incríveis com design e códi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <!-- Ícone do Express com correção para modo escuro -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" data-invert-on-dark="true"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <!-- Ícone do GitHub com correção para modo escuro -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" data-invert-on-dark="true"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 </p>
 
