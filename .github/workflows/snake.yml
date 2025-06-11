@@ -27,6 +27,11 @@ jobs:
           # USA O NOVO TOKEN para ler todas as contribuições públicas
           token: ${{ secrets.SNAKE_TOKEN }}
           
+          # --- IMPORTANTE ---
+          # Se muitas das suas contribuições são em repositórios privados,
+          # remova o '#' da linha abaixo para incluí-las na animação.
+          include_private: true
+          
           # Define os arquivos de saída
           outputs: |
             dist/github-contribution-grid-snake.svg
