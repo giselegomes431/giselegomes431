@@ -60,4 +60,4 @@ Apaixonada por transformar ideias em experiências incríveis com design e códi
 
 ### 🐍 Atividade no GitHub
 
-![snake gif](https://github.com/giselegomes431/giselegomes431/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/giselegomes431/giselegomes431/output/github-contribution-grid-snake.svg)
