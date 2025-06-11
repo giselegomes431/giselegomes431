@@ -5,26 +5,6 @@ UI/UX Designer & Fullstack Developer 💡<br>
 Apaixonada por transformar ideias em experiências incríveis com design e código!
 </p>
 
-<!-- Estilo para corrigir ícones no modo escuro -->
-<style>
-  /* Seleciona as imagens que devem ser invertidas no modo escuro */
-  a[href="#gh-dark-mode-only"] > img {
-    display: none;
-  }
-  a[href="#gh-light-mode-only"] > img {
-    display: block;
-  }
-
-  @media (prefers-color-scheme: dark) {
-    a[href="#gh-dark-mode-only"] > img {
-      display: block;
-    }
-    a[href="#gh-light-mode-only"] > img {
-      display: none;
-    }
-  }
-</style>
-
 ---
 
 ### 🎓 Formação Acadêmica
@@ -57,30 +37,15 @@ Apaixonada por transformar ideias em experiências incríveis com design e códi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  
-  <!-- Ícone do Express com correção para modo escuro -->
-  <a href="#gh-light-mode-only">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40">
-  </a>
-  <a href="#gh-dark-mode-only">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="40" height="40">
-  </a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobexd/adobexd-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  
-  <!-- Ícone do GitHub com correção para modo escuro -->
-  <a href="#gh-light-mode-only">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  </a>
-  <a href="#gh-dark-mode-only">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 </p>
 
@@ -88,10 +53,8 @@ Apaixonada por transformar ideias em experiências incríveis com design e códi
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=giselegomes431&show_icons=true&theme=radical&rank_icon=github" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselegomes431&layout=compact&theme=radical" />
-</div>
+![Gisele's GitHub stats](https://github-readme-stats.vercel.app/api?username=giselegomes431&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselegomes431&layout=compact&theme=radical)
 
 ---
 
@@ -102,3 +65,4 @@ Apaixonada por transformar ideias em experiências incríveis com design e códi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giselegomes431/giselegomes431/main/dist/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/giselegomes431/giselegomes431/main/dist/github-contribution-grid-snake.svg" />
 </picture>
+
